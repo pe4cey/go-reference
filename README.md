@@ -5,6 +5,6 @@ NCBI - Harvard reference generator
 
 ============
 
-Usage: http://powerful-ravine-5882.herokuapp.com/scrape/<articleId>
+Usage: http://go-reference.herokuapp.com/scrape/<articleId>
 
-Live example: http://powerful-ravine-5882.herokuapp.com/scrape/PMC3219685
+Live example: http://go-reference.herokuapp.com/scrape/PMC3219685
